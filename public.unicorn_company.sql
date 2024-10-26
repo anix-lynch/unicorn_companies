@@ -1,0 +1,1 @@
+SELECT * FROM public.unicorn_company LIMIT 1000;
